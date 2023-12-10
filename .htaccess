@@ -1,0 +1,10 @@
+RewriteEngine on 
+RewriteCond %{THE_REQUEST} /([^.]+)\.php [NC]
+RewriteRule ^ /%1 [NC,L,R]
+
+# Remove php extention
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^ %{REQUEST_URI}.php [NC,L]
+
+# for 404 redirection
+ErrorDocument 404 https://www.hostigate.com/404

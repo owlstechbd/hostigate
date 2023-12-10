@@ -1,0 +1,828 @@
+@media only screen and (max-width: 1218px) {
+    #navbar .sale-question {
+        display: none;
+    }
+
+    #navbar .sale-question-block {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 1039px) {
+    #navbar .navbar-brand {
+        width: 180px;
+        height: 60px;
+    }
+}
+
+@media only screen and (max-width: 1079px) {
+    #navbar {
+        display: none;
+    }
+
+    #navbar {
+        padding-right: 20px;
+    }
+}
+
+@media only screen and (max-width: 1079px) {
+    #blackmobilenavbar {
+        display: flex;
+    }
+}
+
+@media only screen and (min-width: 1079px) {
+    #slider {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .mobile_login_btn {
+        display: block;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 323px) {
+    #blackmobilenavbar .navbar-brand {
+        width: 150px;
+    }
+
+    #slider-head .navbar-brand {
+        width: 150px;
+    }
+}
+
+@media only screen and (max-width: 340px) {
+    .hero_section .hero_section_block .hero-content-block .heroview-plan {
+        display: block;
+        padding: 15px 50px;
+        border-radius: 4px;
+        background-color: orangered;
+        color: white;
+        text-align: center;
+        /* font-family: 'semibold'; */
+        cursor: pointer;
+        word-break: keep-all;
+    }
+
+    .hero .hero-content .hero-img {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 460px) {
+    .hero_section .hero_section_block .hero-content-block .hero-links {
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 999px) {
+    .brandlogos {
+        overflow-x: scroll;
+    }
+
+    .brandlogos img:not(:last-child) {
+        margin-right: 30px;
+    }
+}
+
+@media only screen and (max-width: 583px) {
+    .brandlogos {
+        margin-top: 40px;
+    }
+}
+
+@media only screen and (max-width: 393px) {
+    .choose-heading {
+        /* font-family: 'bold';*/
+        color: black;
+        font-size: 25px;
+        text-align: center;
+        margin-top: 70px;
+    }
+}
+
+@media only screen and (max-width: 393px) {
+    .bodysharedplan-heading {
+        /* font-family: 'bold';*/
+        color: black;
+        font-size: 25px;
+        text-align: center;
+        margin-top: 70px;
+    }
+}
+
+@media only screen and (max-width: 503px) {
+    .bodysharedplan-items {
+        padding: 50px 20px 100px 20px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .sharedplan {
+        margin-bottom: 60px;
+        border: 1px solid rgb(216, 216, 216);
+    }
+}
+
+@media only screen and (max-width: 1159px) {
+    .bodyinfo1 .row .bodyinfo1-item {
+        padding: 20px;
+        margin-bottom: 50px;
+        box-shadow: 0px 0px 25px rgb(212, 212, 212);
+        height: 300px;
+    }
+}
+
+@media only screen and (max-width: 1089px) {
+    .bodyinfo1 .row .bodyinfo1-item {
+        padding: 20px;
+        margin-bottom: 50px;
+        box-shadow: 0px 0px 25px rgb(212, 212, 212);
+        height: 350px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .bodyinfo1 .row .bodyinfo1-item {
+        padding: 20px;
+        margin-bottom: 50px;
+        box-shadow: 0px 0px 25px rgb(212, 212, 212);
+        height: 250px;
+    }
+}
+
+@media only screen and (max-width: 431px) {
+    .bodyinfo1 {
+        padding-top: 50px;
+        padding-bottom: 100px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .bodyinfo1 .row .bodyinfo1-item {
+        padding: 20px;
+        margin-bottom: 50px;
+        box-shadow: 0px 0px 25px rgb(212, 212, 212);
+        height: 300px;
+    }
+}
+
+@media only screen and (max-width: 355px) {
+    .bodyinfo1 .row .bodyinfo1-item {
+        padding: 20px;
+        margin-bottom: 50px;
+        box-shadow: 0px 0px 25px rgb(212, 212, 212);
+        height: 350px;
+    }
+}
+
+@media only screen and (max-width: 295px) {
+    .bodyinfo1 .row .bodyinfo1-item {
+        padding: 20px;
+        margin-bottom: 50px;
+        box-shadow: 0px 0px 25px rgb(212, 212, 212);
+        height: 420px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .control-panel-row1 {
+        display: none !important;
+    }
+
+    .control-panel-row2 {
+        display: block !important;
+    }
+
+    .control-panel .control-panel-item {
+        text-align: left !important;
+        display: flex !important;
+        flex-direction: column;
+        justify-content: space-around;
+        margin-bottom: 50px;
+    }
+
+    .control-panel .control-panel-item div {
+        margin-bottom: 30px;
+    }
+    .top-header ul {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .top-header ul li {
+        margin-left: 10px;
+    }
+    .top-header ul li a i {
+        margin-right: 2px;
+    }
+    .top-header ul li a {
+        color: #fff;
+        font-size: 13px;
+    }
+    .top-header ul span li {
+        margin: 10px 0;
+    }
+    .navbar-brand img {
+        width: 171px;
+    }
+    div#navbarNav {
+        text-align: left;
+        margin-left: -21px;
+        /* padding: 10px 0 27px; */
+    }
+    .dropdown button{
+        margin-left: 34px;
+    }
+}
+
+@media only screen and (max-width: 1500px) {
+
+    .map .map-content .map-pointers .india {
+        position: absolute;
+        top: 45%;
+        left: 69.75%;
+        display: flex;
+    }
+
+    .map .map-content .map-pointers .france {
+        position: absolute;
+        top: 28%;
+        left: 51%;
+        display: flex;
+    }
+
+    .map .map-content .map-pointers .singapore {
+        position: absolute;
+        top: 55.58%;
+        left: 78.5%;
+        display: flex;
+    }
+
+    .map .map-content .map-pointers .usa {
+        position: absolute;
+        top: 30%;
+        left: 14%;
+        display: flex;
+    }
+}
+
+@media only screen and (max-width: 501px) {
+    .map {
+        position: relative;
+        margin-left: 20px !important;
+        margin-right: 20px !important;
+    }
+}
+
+@media only screen and (max-width: 720px) {
+    .questions .q-item {
+        color: black;
+        /* font-family: 'semibold'; */
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 15px 20px 15px 20px;
+        font-size: 15px;
+        border-bottom: 1px solid rgb(216, 216, 216);
+        cursor: pointer;
+    }
+}
+
+@media only screen and (max-width: 410px) {
+    .questions .q-item {
+        color: black;
+        /* font-family: 'semibold'; */
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 15px 20px 15px 20px;
+        font-size: 13px;
+        border-bottom: 1px solid rgb(216, 216, 216);
+        cursor: pointer;
+    }
+
+    .questions .q-item span {
+        margin-right: 7px;
+    }
+
+    .questions .a-item {
+        color: rgb(155, 155, 155);
+        /* font-family: 'semibold'; */
+        font-size: 13px;
+        padding: 10px 20px;
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width: 768px) {
+    footer .payment-logos {
+        padding-top: 30px;
+        padding-left: 20px;
+    }
+}
+
+@media only screen and (max-width: 366px) {
+    footer .t-c {
+        margin-top: 20px;
+        text-align: center;
+        color: rgb(214, 214, 214);
+        flex-direction: column;
+        font-size: 13px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .visible-lg {
+        display: block !important;
+    }
+}
+
+@media (min-width: 992px) {
+    .logo {
+        background-image: url(/ui/HostiGate/themes/MinimalGreen/images/snappy-logo-default.png);
+        height: 74px;
+        width: 339px;
+    }
+
+    nav.affix {
+        position: relative;
+    }
+}
+
+@media only screen and (max-width: 393px) {
+    .domain-search-heading {
+        /* font-family: 'bold';*/
+        color: black;
+        font-size: 25px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    .hosting-plans-heading {
+        /* font-family: 'bold';*/
+        color: black;
+        font-size: 25px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    .map-heading {
+        /* font-family: 'bold';*/
+        color: black;
+        font-size: 25px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    .bodyinfo1-heading {
+        /* font-family: 'bold';*/
+        color: black;
+        font-size: 25px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    .rating-heading {
+        /* font-family: 'bold';*/
+        color: black;
+        font-size: 25px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    .questions-heading {
+        /* font-family: 'bold';*/
+        color: black;
+        font-size: 25px;
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .aboutbrand-heading {
+        /* font-family: 'bold';*/
+        color: black;
+        font-size: 25px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    .tools-heading {
+        /* font-family: 'bold';*/
+        color: black;
+        font-size: 25px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    .control-panel-heading {
+        /* font-family: 'bold';*/
+        color: black;
+        font-size: 25px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    .reviews-heading {
+        /* font-family: 'bold';*/
+        color: black;
+        font-size: 25px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    .advantages-heading {
+        /* font-family: 'bold';*/
+        color: black;
+        font-size: 25px;
+        text-align: center;
+        margin-top: 70px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .domaininfo2 .domaininfo2-row1 {
+        margin-bottom: 20px;
+    }
+
+    .domaininfo2 .domaininfo2-row1 .row {
+        margin-bottom: 50px;
+    }
+
+    .domaininfo2 .domaininfo2-row2 .row {
+        margin-bottom: 50px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .domaininfo2 {
+        padding-top: 50px;
+        padding-bottom: 100px;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+}
+
+@media only screen and (max-width: 393px) {
+    .domaininfo1-heading {
+        /* font-family: 'bold';*/
+        color: black;
+        font-size: 25px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    .domaininfo2-heading {
+        /* font-family: 'bold';*/
+        color: black;
+        font-size: 25px;
+        text-align: center;
+        margin-top: 70px;
+    }
+}
+
+@media only screen and (max-width: 457px) {
+    .domaininfo1 {
+        padding-top: 80px;
+        padding-bottom: 100px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media only screen and (max-width: 503px) {
+    .resellerplan-items {
+        margin-top: -280px;
+        padding: 70px 20px 100px 20px;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .resellerplan-items {
+        margin-top: -250px;
+    }
+}
+
+@media only screen and (max-width: 393px) {
+    .info1-reseller-heading {
+        /* font-family: 'bold';*/
+        color: black;
+        font-size: 25px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    .automate-heading {
+        /* font-family: 'bold';*/
+        color: black;
+        font-size: 25px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    .choosehost-heading {
+        /* font-family: 'bold';*/
+        color: black;
+        font-size: 25px;
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    .reseller-hosting-feature-heading {
+        /* font-family: 'bold';*/
+        color: black;
+        font-size: 25px;
+        text-align: center;
+        margin-top: 70px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .resellerinfo1 .row .resellerinfo1-item {
+        margin-bottom: 60px;
+    }
+
+    .resellerinfo1 {
+        padding-top: 50px;
+        padding-bottom: 80px;
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .resellerinfo1 .row .resellerinfo1-item {
+        margin-bottom: 30px;
+    }
+
+    .resellerinfo1 {
+        padding-top: 50px;
+        padding-bottom: 20px;
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .choosehostinfo .choosehostinfo-item {
+        margin-bottom: 60px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .choosehostinfo .choosehostinfo-item {
+        margin-bottom: 30px;
+    }
+}
+
+@media only screen and (max-width: 720px) {
+    .reseller-questions .rq-item {
+        color: black;
+        /* font-family: 'semibold'; */
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 15px 20px 15px 20px;
+        font-size: 15px;
+        border-bottom: 1px solid rgb(216, 216, 216);
+        cursor: pointer;
+    }
+}
+
+@media only screen and (max-width: 410px) {
+    .reseller-questions .rq-item {
+        color: black;
+        /* font-family: 'semibold'; */
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 15px 20px 15px 20px;
+        font-size: 13px;
+        border-bottom: 1px solid rgb(216, 216, 216);
+        cursor: pointer;
+    }
+
+    .reseller-questions .rq-item span {
+        margin-right: 7px;
+    }
+
+    .reseller-questions .ra-item {
+        color: rgb(155, 155, 155);
+        /* font-family: 'semibold'; */
+        font-size: 13px;
+        padding: 10px 20px;
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width: 340px) {
+    .vps .vpshero-content .vpshero-content-block .view-plan {
+        display: block;
+        padding: 15px 50px;
+        border-radius: 4px;
+        background-color: orangered;
+        color: white;
+        text-align: center;
+        /* font-family: 'semibold'; */
+        cursor: pointer;
+        word-break: keep-all;
+    }
+
+    .vps .vpshero-content .vpshero-img {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 460px) {
+    .vps .vpshero-content .vpshero-content-block .vpshero-links {
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 1119px) {
+    .pricing {
+        display: none;
+    }
+
+    .pricing .pricing-container .pricing-container-header {
+        display: none;
+    }
+
+    .pricing .pricing-container .pricing-container-item {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 1119px) {
+    .mobilepricing {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .mobilepricing .mobilepricing-item {
+        margin-bottom: 50px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .mobilepricing {
+        padding-top: 50px;
+        padding-bottom: 20px;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+}
+
+@media only screen and (max-width: 353px) {
+    .mobilepricing {
+        padding-top: 50px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .mobilepricing .mobilepricing-item .mobilepricing-item-upper-section .mobilepricing-item-upper-section-body .row span {
+        color: black;
+        /* font-family: 'semibold'; */
+        font-size: 12.7px;
+    }
+}
+
+@media only screen and (max-width: 334px) {
+    .mobilepricing {
+        padding-top: 50px;
+        padding-bottom: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .mobilepricing .mobilepricing-item .mobilepricing-item-upper-section .mobilepricing-item-upper-section-body .row span {
+        color: black;
+        /* font-family: 'semibold'; */
+        font-size: 12.7px;
+    }
+}
+
+@media only screen and (max-width: 393px) {
+    .oschoose-heading {
+        /* font-family: 'bold';*/
+        color: black;
+        font-size: 25px;
+        text-align: center;
+        margin-top: 70px;
+    }
+}
+
+@media only screen and (max-width: 1270px) {
+    .oschoose {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .oschoose .oschoose-item {
+        margin-bottom: 60px;
+    }
+}
+
+@media only screen and (max-width: 393px) {
+    .vpshostingfeature-heading {
+        /* font-family: 'bold';*/
+        color: black;
+        font-size: 25px;
+        text-align: center;
+        margin-top: 70px;
+    }
+}
+
+@media only screen and (max-width: 1159px) {
+    .bodyinfo1 .row .bodyinfo1-item {
+        padding: 20px;
+        margin-bottom: 50px;
+        box-shadow: 0px 0px 25px rgb(212, 212, 212);
+        height: 300px;
+    }
+}
+
+@media only screen and (max-width: 1089px) {
+    .bodyinfo1 .row .bodyinfo1-item {
+        padding: 20px;
+        margin-bottom: 50px;
+        box-shadow: 0px 0px 25px rgb(212, 212, 212);
+        height: 350px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .bodyinfo1 .row .bodyinfo1-item {
+        padding: 20px;
+        margin-bottom: 50px;
+        box-shadow: 0px 0px 25px rgb(212, 212, 212);
+        height: 250px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .bodyinfo1 {
+        padding-top: 50px;
+        padding-bottom: 100px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .bodyinfo1 .row .bodyinfo1-item {
+        padding: 20px;
+        margin-bottom: 50px;
+        box-shadow: 0px 0px 25px rgb(212, 212, 212);
+        height: 220px;
+    }
+}
+
+/* About Us Page*/
+
+@media only screen and (max-width: 992px) {
+    .abouthero-content {
+        padding-top: 125px;
+        padding-bottom: 125px;
+        padding-left: 15%;
+        padding-right: 15%;
+
+    }
+}
+
+@media only screen and (max-width: 687px) {
+    .abouthero-content {
+        padding-top: 125px;
+        padding-bottom: 125px;
+        padding-left: 5%;
+        padding-right: 5%;
+
+    }
+}
+
+@media (min-width: 992px) {
+    .col-lg-12 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 767px) {
+    .web-features {
+        display: block;
+        margin-bottom: 24px;
+    }
+}
+
+@media (max-width: 767px) {
+    .web-features {
+        height: auto;
+    }
+}

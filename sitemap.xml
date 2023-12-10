@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!--  created with sitemap generator https://octopus.do  -->
+
+    <url>
+        <loc>https://www.hostigate.com</loc>
+        <lastmod>2023-08-28</lastmod>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://www.hostigate.com/domain-search</loc>
+        <lastmod>2023-04-21</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.hostigate.com/shared-hosting</loc>
+        <lastmod>2023-08-26</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.hostigate.com/reseller-hosting</loc>
+        <lastmod>2023-08-26</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.hostigate.com/ssl</loc>
+        <lastmod>2023-08-26</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.hostigate.com/best-student-hosting-plan</loc>
+        <lastmod>2023-08-26</lastmod>
+        <priority>0.80</priority>
+    </url>
+        <url>
+        <loc>https://www.hostigate.com/wordpress-hosting</loc>
+        <lastmod>2023-04-21</lastmod>
+        <priority>0.80</priority>
+    </url>
+</urlset>
